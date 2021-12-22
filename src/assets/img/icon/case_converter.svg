@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Group_43" data-name="Group 43" transform="translate(-549.882 -700.882)">
+    <rect id="Rectangle_54" data-name="Rectangle 54" width="28" height="28" rx="5" transform="translate(549.882 700.882)" fill="#703a88"/>
+    <g id="Group_42" data-name="Group 42" transform="translate(554.828 705.828)">
+      <text id="aA" transform="translate(9.053 14.053)" fill="#fff" font-size="14" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-8.876" y="0">aA</tspan></text>
+      <g id="Group_41" data-name="Group 41" transform="translate(1.056 2.471)">
+        <path id="Path_525" data-name="Path 525" d="M561.7,751.084a.453.453,0,0,1-.248-.832l2.046-1.335-2.046-1.336a.453.453,0,1,1,.495-.758l3.208,2.094-3.208,2.094A.451.451,0,0,1,561.7,751.084Z" transform="translate(-555.312 -746.75)" fill="#fff"/>
+        <path id="Line_2" data-name="Line 2" d="M8.272.155H-.3A.453.453,0,0,1-.75-.3.453.453,0,0,1-.3-.75H8.272A.453.453,0,0,1,8.725-.3.453.453,0,0,1,8.272.155Z" transform="translate(0.75 2.465)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

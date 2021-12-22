@@ -1,0 +1,375 @@
+@media only screen and (max-width: 767px){
+    h2{
+    font-size: 18px;
+    }
+    h3{
+        font-size: 12px;
+    }
+    .mobile_logo img {
+        max-width: 35px;
+        height: auto;
+    }
+    .big_header{
+        display: none;
+    }
+    .password_generator_area{
+        background: none;
+    }
+    .header_section{
+        height: 149px;
+    }
+    h3.passbox_title {
+        text-align: center;
+        color: #fff;
+        padding-bottom: 15px;
+    }
+    section.mobile_header {
+        padding: 20px 0;
+    }
+    .mobile_menu {
+        display: flex;
+        justify-content: space-around;
+        align-items: start;
+    }
+    .mobile_logo {
+        display: flex;
+        justify-content: center;
+        align-items: start;
+    }
+    .mobile_logo h1 {
+        font-size: 18px;
+        line-height: 23px;
+        font-weight: 700;
+        padding-left: 10px;
+    }
+    
+    .menubar {
+        padding-left: 27px;
+    }
+    .dropdown-toggle::after{
+        display: none;
+    }
+    button#dropdownMenuButton1 {
+        border: none;
+        background: none;
+    }
+    ul.dropdown-menu.show {
+        padding: 0;
+    }
+    .language{
+        padding-top: 0;
+    }
+    .password_box {
+        background: #fff;
+    }
+    .pass_box_text {
+        width: 70%;
+    }
+    .pass_remember h3{
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .password_box input::placeholder{
+        font-size: 12px;
+    }
+    h3.rem-pass{
+        font-size: 14px;
+        font-weight: bold;
+        padding-bottom: 15px;
+        margin-top: 35px;
+    }
+    section.secure_password_area {
+        margin-top: -154px;
+    }
+    .password_generator_area{
+        padding: 0px 40px;
+        margin-top: inherit;
+        box-shadow: none;
+    }
+    .range-length{
+        width: 100%;
+    }
+    .password-check-box{
+        width: 100%;
+        padding-left: 0px;
+    }
+    .customize_area{
+        display: block;
+    }
+    .customize-icon-box {
+        display: none;
+    }
+    .customze_pass_title {
+        margin-top: 2.313rem;
+        margin-bottom: 0.938rem;
+    }
+    .customize-icon-box.mobile_visible {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .pass-range.mobile_visible {
+        width: 33%;
+    }
+    .pass-range.desktop_visible {
+        display: none;
+    }
+    .ui-slider-horizontal {
+        height: 5px;
+    }
+    .ui-slider .ui-slider-handle {
+        width: 16px;
+        height: 16px;
+    }
+    .ui-slider-horizontal .ui-slider-handle {
+        margin-top: -8.5px;
+    }
+    .password-length input{
+        width: 62px;
+        height: 44px;
+    }
+    .icon-text h3 {
+        padding: 3px 0;
+    }
+    label.form-check-label h3 {
+        font-size: 9px;
+    }
+    .form-check input{
+        height: 14px;
+        width: 14px;
+    }
+    .form-check p {
+        font-size: 8px;
+    }
+    .form-check{
+        margin-bottom: 20px;
+    }
+    .customize-icon-checkbox{
+        display: block;
+    }
+    .try-out-icon{
+        padding-bottom: 15px;
+    }
+    .pass_remember{
+        text-align: center;
+    }
+    .random_text_password_area{
+        padding: 40px;
+        margin-top: 30px;
+        box-shadow: none;
+    }
+    .middle-text{
+        text-align: center;
+    }
+    .last_text {
+        padding: 40px;
+    }
+    h2.try_out_title {
+        padding: 30px 0;
+    }
+    
+    .border_top.mobile_visible {
+        margin-top: 15px;
+    }
+    .random_text_password_area {
+        padding: 30px 40px 40px;
+        margin-top: 0px;
+        background: none;
+    }
+    
+    }
+    
+    @media only screen and (min-width: 767px){
+        .mobile_visible{
+            display: none;
+        }
+    }
+    
+    @media only screen and (min-width: 768px) and (max-width: 991px){
+    
+    .container{
+        max-width: 100%;
+        padding: 0 40px;
+    }
+    .password_generator_area{
+        padding: 0px;
+        margin-top: 46px;
+        box-shadow: none;
+    }
+    .header_section {
+        height: 124px;
+    }
+    
+    h2{
+    font-size: 18px;
+    }
+    h3{
+        font-size: 12px;
+    }
+    .mobile_logo img {
+        max-width: 35px;
+        height: auto;
+    }
+    .big_header{
+        display: none;
+    }
+    .password_generator_area{
+        background: none;
+    }
+    h3.passbox_title {
+        text-align: left;
+        color: #fff;
+        padding-bottom: 0;
+    }
+    section.mobile_header {
+        padding: 9px 0;
+    }
+    .mobile_menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+    }
+    .mobile_logo {
+        display: flex;
+        justify-content: center;
+        align-items: start;
+    }
+    .mobile_logo h1 {
+        font-size: 18px;
+        line-height: 23px;
+        font-weight: 700;
+        padding-left: 10px;
+    }
+    
+    .menubar {
+        padding-left: 27px;
+    }
+    .dropdown-toggle::after{
+        display: none;
+    }
+    button#dropdownMenuButton1 {
+        border: none;
+        background: none;
+    }
+    ul.dropdown-menu.show {
+        padding: 0;
+    }
+    .language{
+        padding-top: 0;
+    }
+    .pass_box_area {
+        margin-top: 18px;
+    }
+    .password_box {
+        background: #fff;
+    }
+    .pass_box_text {
+        width: 70%;
+    }
+    .pass_remember {
+        margin-top: 18px;
+    }
+    .pass_remember h3{
+        font-size: 12px;
+        font-weight: 500;
+        color: #fff;
+    }
+    .password_box input::placeholder{
+        font-size: 12px;
+    }
+    h3.rem-pass {
+        color: #fff;
+        font-size: 12px;
+        font-weight: 700;
+        padding-bottom: 0;
+        margin-top: 0;
+    }
+    section.secure_password_area {
+        margin-top: -154px;
+    }
+    .customize_area{
+        padding-bottom: 0;
+    }
+    .customze_pass_title {
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    .customize-icon-box {
+        margin-top: 45px;
+        padding-bottom: 5px;
+    }
+    h2.try_out_title {
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    .random_text_password_area{
+        padding: 0;
+    }
+    .random_text_password_area {
+        margin-top: 25px;
+        background: none;
+        box-shadow: none;
+        padding: 0;
+    }
+    .last_text {
+        padding: 0;
+        margin-top: 40px;
+        padding-bottom: 50px;
+    }
+    .border_top.landscape_visible {
+        margin-top: 25px;
+        display: block;
+    }
+    .ui-slider .ui-slider-handle {
+        width: 21px;
+        height: 22px;
+        outline: 0;
+    }
+    .ui-slider-horizontal {
+        height: 7px;
+    }
+    .ui-slider-horizontal .ui-slider-handle {
+        margin-top: -12px;
+    }
+    .password-length h3 {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 20px;
+    }
+    label.form-check-label h3 {
+        font-size: 0.625rem;
+    }
+    .form-check p {
+        font-size: 0.563rem;
+    }
+    .random_text_password_area p, .random_text_password_area table tbody tr td {
+        font-size: 0.75rem;
+    }
+    .random_details tbody, td, tfoot, th, thead, tr {
+        padding-bottom: 0.938rem;
+    }
+    
+    }
+    @media only screen and (min-width: 991px){
+        .mobile_header{
+            display: none;
+        }
+    
+        
+    }
+    
+    @media only screen and (min-width: 992px) and (max-width: 1270px) {
+        .pm-header h1{
+            font-size: 36px;
+        }
+        h3.passbox_title{
+            font-size: 16px;
+        }
+        .pass_remember h3{
+            font-size: 12px;
+        }
+    
+        .border_top.landscape_visible{
+            display: none;
+        }
+    }

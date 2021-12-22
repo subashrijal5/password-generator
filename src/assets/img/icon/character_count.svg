@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Group_59" data-name="Group 59" transform="translate(-377 -474)">
+    <rect id="Rectangle_54" data-name="Rectangle 54" width="28" height="28" rx="5" transform="translate(377 474)" fill="#703a88"/>
+    <g id="Group_44" data-name="Group 44" transform="translate(-488.64 -290.919)">
+      <text id="_123" data-name="123" transform="translate(876.64 783.919)" fill="#fff" font-size="7" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-5.701" y="0">123</tspan></text>
+      <text id="aAB" transform="translate(876.64 776.919)" fill="#fff" font-size="7" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-6.906" y="0">aAB</tspan></text>
+      <g id="Group_41" data-name="Group 41" transform="translate(885.207 784.645) rotate(-90)">
+        <path id="Path_525" data-name="Path 525" d="M.525,5.019a.524.524,0,0,1-.287-.963L2.607,2.51.238.963A.524.524,0,1,1,.811.085L4.525,2.51.811,4.934A.523.523,0,0,1,.525,5.019Z" transform="translate(6.876)" fill="#fff"/>
+        <path id="Line_2" data-name="Line 2" d="M10.447,1.048H.524A.524.524,0,1,1,.524,0h9.923a.524.524,0,0,1,0,1.048Z" transform="translate(0 1.985)" fill="#fff"/>
+      </g>
+      <line id="Line_2-2" data-name="Line 2" x2="13.783" transform="translate(870.405 778.513)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.513" height="17.518" viewBox="0 0 26.513 17.518">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="26.513" height="17.518" rx="2" transform="translate(1299 855.611)" fill="#41479b"/>
+    </clipPath>
+  </defs>
+  <g id="Language_Englidh_Flag" data-name="Language Englidh Flag" transform="translate(-1299 -855.611)" clip-path="url(#clip-path)">
+    <g id="Group_1" data-name="Group 1" transform="translate(1297.573 854.19)">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="26.682" height="17.483" transform="translate(1.475 1.377)" fill="#41479b"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="26.682" height="4.775" transform="translate(1.475 7.415)" fill="#fff"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="26.682" height="2.809" transform="translate(1.475 8.469)" fill="#ff4b55"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="17.483" height="4.775" transform="translate(17.203 1.377) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="17.483" height="2.809" transform="translate(16.15 1.377) rotate(90)" fill="#ff4b55"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="2.809" height="32.902" transform="matrix(0.545, 0.839, -0.839, 0.545, 27.594, 0.226)" fill="#fff"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="0.913" height="32.584" transform="matrix(0.545, 0.839, -0.839, 0.545, 28.053, 0.933)" fill="#ff4b55"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="2.809" height="32.902" transform="matrix(-0.559, 0.829, -0.829, -0.559, 28.986, 18.399)" fill="#fff"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="0.913" height="32.584" transform="matrix(-0.559, 0.829, -0.829, -0.559, 28.515, 19.097)" fill="#ff4b55"/>
+    </g>
+  </g>
+</svg>
